@@ -46,7 +46,8 @@ You will follow the [tutorial](https://cloud.ibm.com/docs/watson-assistant?topic
 
 Here are some hints for each step:
 
-## 🔍 Step 1: This section just shows details about the assignment. Please read so you understand what you will be doing. 
+## 🔍 Step 1: 
+This section just shows details about the assignment. Please read so you understand what you will be doing. 
 
 ## 🍽️ Step 2: Answer the questions about the restaurant.
 
