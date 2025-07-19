@@ -113,26 +113,36 @@ pic
 ## 🙋‍♀️  Step 5: Add the personal touch
 1. Add the user name to the greeting
 
-### a. 📐Step 6: Your final set up should look like this. Note: The second blank in the “If assistant recognizes” column should be left blank.
+**a. 📐Step 6: Your final set up should look like this. Note: The second blank in the “If assistant recognizes” column should be left blank.**
 
+**Reminder:** While walking through the tutorial, you will make a few tests on your chatbot. You will take screenshots in this step.
 
-Reminder: While walking through the tutorial, you will make a few tests on your chatbot. You will take screenshots in this step.
-Test 1: Test the #about_restaurant dialog node
+- [Test 1: Test the #about_restaurant dialog node](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-tutorial#tutorial-test-about-intent)
 
+- [Test 2: Test the menu option node](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-tutorial#tutorial-test-menu-options-intent)
 
-Test 2: Test the menu option node
-
-
-Test 3: Test order cancellation
+- [Test 3: Test order cancellation](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-tutorial#tutorial-test-cancel-order)
  
-Test 4: Test personalization
+- [Test 4: Test personalization](https://cloud.ibm.com/docs/watson-assistant?topic=watson-assistant-tutorial#tutorial-test-personalize)
+
+- [Test 5: Test the chatbot from your web integration](https://cloud.ibm.com/docs/assistant?topic=assistant-tutorial#tutorial-integrate-assistant)
+
+When taking the screenshots, click on your account (on the top right) so that your name is shown with your testing. It is fine if your account information blocks part of your testing interface (see an example below). **Screenshots without your name will not be counted as valid.**
 
 
-Test 5: Test the chatbot from your web integration
-When taking the screenshots, click on your account (on the top right) so that your name is shown with your testing. It is fine if your account information blocks part of your testing interface (see an example below). Screenshots without your name will not be counted as valid.
+pic
 
-Deliverables
+
+---
+
+## 📝 Deliverables
+
 A pdf document with
-your screenshots of Test 1-5 (you need to include your name/account information in screenshots of Test 1-4);
-the URL link of your chatbot in Test 5.
+- your screenshots of Test 1-5 **(you need to include your name/account information in screenshots of Test 1-4);**
+- the URL link of your chatbot in Test 5.
+
+---
+
+### 👏 Well done! You've wrapped up a key milestone in building smarter, more personalized chatbots.
+
 
