@@ -57,7 +57,7 @@ This section just shows details about the assignment. Please read so you underst
 
 - In the top search bar, type in **Watson Assistant** and click on the assistant you previously made under **“Resource Results”**, **NOT “Catalog Results”**. For example, if your Watson Assistant was named Watson Assistant-t8 click on that one. 
 
-![Picture 1](screenshots/Picture1.png)
+![Picture 1](screenshots/pic1.png)
 
 - Click **Launch Watson Assistant**, create a new assistant. 
 
@@ -70,7 +70,7 @@ This section just shows details about the assignment. Please read so you underst
 - Add another node **below** the **#General_Greetings** node. This node should be the **#about_restaurant** intent you made. **Note:** If you have not yet made the #about_restaurant intent, please follow Step 2 on the [tutorial](https://cloud.ibm.com/docs/assistant?topic=assistant-tutorial)
 
 
-![Picture 2](screenshots/Picture2.png)
+![Picture 2](screenshots/pic2.png)
 
 
 - After completing Step 2, continue the lab from the “Add a dialog node that is triggered by the #about_restaurant intent” section.
@@ -89,7 +89,7 @@ This section just shows details about the assignment. Please read so you underst
 
 - Step 1: Click the **Entities** tab, click **My Entities**, then click **Create Entity**
 
-![Picture 3](screenshots/Picture3.png)
+![Picture 3](screenshots/pic3.png)
 
 - Step 9: Click **Recommended synonyms**, then click the checkbox for **vegan.**
 - Step 11: Click the empty **Type a synonym** field, then add plants-only and vegan diet.
@@ -106,7 +106,7 @@ This section just shows details about the assignment. Please read so you underst
 
 1. Step 1: Click Entities and then “My Entities”. Then select “Create entity”
 
-![Picture 4](screenshots/Picture4.png)
+![Picture 4](screenshots/pic4.png)
 
 2. Step 5: Add **“order_syntax”** under **Value**.
 
@@ -119,14 +119,14 @@ This section just shows details about the assignment. Please read so you underst
 - Step 36: In the “Then assistant should” section select “Skip user input”.
 
 
-![Picture 5](screenshots/Picture5.png)
+![Picture 5](screenshots/pic5.png)
 
 ## 🙋‍♀️  Step 5: Add the personal touch
 1. Add the user name to the greeting
 
 **a. 📐Step 6: Your final set up should look like this. Note: The second blank in the “If assistant recognizes” column should be left blank.**
 
-![Picture 6](screenshots/Picture6.png)
+![Picture 6](screenshots/pic6.png)
 
 **Reminder:** While walking through the tutorial, you will make a few tests on your chatbot. You will take screenshots in this step.
 
@@ -143,7 +143,7 @@ This section just shows details about the assignment. Please read so you underst
 When taking the screenshots, click on your account (on the top right) so that your name is shown with your testing. It is fine if your account information blocks part of your testing interface (see an example below). **Screenshots without your name will not be counted as valid.**
 
 
-![Picture 7](screenshots/Picture7.png)
+![Picture 7](screenshots/pic7.png)
 
 
 ---
