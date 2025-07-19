@@ -2,7 +2,7 @@
 ## 💻 BUS 118i Digital Innovation
 
 ---
-## 📝 Introduction
+## 📖 Introduction
 
 In the last few assignments, you have learned how to create a basic chatbot that can answer questions (Lab 1: Watson Assistant HelloWorld) and a chatbot that can ask questions (Lab 3: Using Watson Assistant to Interview Users). You also learned how to create a chatbot interviewer by yourself (Lab 4: Create Your Own Chatbot Interviewer)!
 
